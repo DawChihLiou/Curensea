@@ -1,0 +1,3 @@
+rootProject.name = 'Curensea'
+
+include ':app'
